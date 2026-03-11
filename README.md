@@ -38,6 +38,14 @@ The recommendation system follows the steps below:
 * **Evaluation Metric:** Silhouette Score
 * **Dimensionality Reduction:** PCA (2D)
 
+## Cluster Visualization
+
+![Cluster Graph](cluster_visualization.png)
+
+## Cluster Distribution
+
+![Cluster Distribution](cluster_distribution.png)
+
 Example output summary:
 
 Dataset size       : 232,725 songs
